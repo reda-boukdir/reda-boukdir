@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **boukdireda2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aGD61w2nHx9MlpLOnswnHZDG3tzzc2Fe/view?usp=sharing](https://drive.google.com/file/d/1aGD61w2nHx9MlpLOnswnHZDG3tzzc2Fe/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reda-boukdir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reda-boukdir" height="30" width="40" /></a>
